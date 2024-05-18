@@ -1,0 +1,2 @@
+# ExerciciosEntradaDeDadosEStrings
+Exercícios adicionais
